@@ -1,6 +1,4 @@
-{% if site.title and site.title != page.title %} 
- <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1> 
-{% endif %} 
+name: Kui
 
 <b>李       岿</b>
 
